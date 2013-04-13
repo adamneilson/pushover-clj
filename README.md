@@ -8,7 +8,7 @@ A simple wrapper for sending messages to the Pushover API
 
 Simplest is to include this as a project dependency in project.clj
 
-`[pushover-clj "0.1.0-SNAPSHOT"]`
+`[pushover-clj "0.1.0"]`
 
 Then in your project source 
 
