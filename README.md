@@ -1,6 +1,8 @@
 Pushover-Clj
 ============
 
+[![Build Status](https://snap-ci.com/adamneilson/pushover-clj/branch/master/build_image)](https://snap-ci.com/adamneilson/pushover-clj/branch/master)
+
 A simple wrapper for sending messages to the Pushover API
 
 
